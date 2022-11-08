@@ -1,0 +1,13 @@
+numpy
+pandas
+sklearn
+tensorflow
+tensorflow-addons
+librosa
+PyWavelets
+scikit-image
+loess
+statsmodels
+scipy
+matplotlib
+ipython
