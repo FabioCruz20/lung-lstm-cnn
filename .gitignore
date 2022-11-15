@@ -6,3 +6,4 @@ Audio_Files/
 Respiratory_Sound_Database/
 
 df_partial.npy
+*.npy
